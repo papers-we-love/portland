@@ -1,6 +1,6 @@
-# {Chapter} - Update this file and the code of conduct!
+# Papers We Love Portland
 
-This is the repository for the {Chapter} chapter of Papers We Love. As a local chapter we follow the Papers We Love [Code of Conduct](https://github.com/papers-we-love/nashville/blob/master/code-of-conduct.md).
+This is the repository for the Portland chapter of Papers We Love. As a local chapter we follow the Papers We Love [Code of Conduct](https://github.com/papers-we-love/portland/blob/master/code-of-conduct.md).
 
 ### Information
 
