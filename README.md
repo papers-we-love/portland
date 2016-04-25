@@ -16,5 +16,5 @@ If you need to reach out to us or have ideas for papers, just ask us via our [Tw
 
 ### Contact
 
-Carl Lerche | [GitHub](https://github.com/carllerche) | [Twitter](https://twitter.com/carllerche) | [Email](me@carllerche.com)
-Nick Fitzgerald | [GitHub](https://github.com/fitzgen) | [Twitter](https://twitter.com/fitzgen) | [Email](fitzgen@gmail.com)
+- Carl Lerche | [GitHub](https://github.com/carllerche) | [Twitter](https://twitter.com/carllerche) | [Email](me@carllerche.com)
+- Nick Fitzgerald | [GitHub](https://github.com/fitzgen) | [Twitter](https://twitter.com/fitzgen) | [Email](fitzgen@gmail.com)
