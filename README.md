@@ -8,11 +8,11 @@ What was the last paper you read and loved within the realm of computing? What d
 
 We're curating this repository for papers presented at PWL PDX. You can contribute by adding PR's for papers, code, and/or links to other repositories, like the _main_ Papers We Love repo, [here](https://github.com/papers-we-love/papers-we-love).
 
-If you need to reach out to us or have ideas for papers, just ask us via our [Twitter](https://twitter.com/pwlpdx) account or join the pwlnashville [Slack](http://papersweloveslack.herokuapp.com/) channel!
+If you need to reach out to us or have ideas for papers, just ask us via our [Twitter](https://twitter.com/pwlpdx) account!
 
 ### Information
 
-{Chapter information: who, what, where, when, why}
+Events are posted to the [Papers We Love PDX meetup group](http://www.meetup.com/Papers-We-Love-PDX/).
 
 ### Contact
 
