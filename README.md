@@ -17,4 +17,5 @@ Events are posted to the [Papers We Love PDX meetup group](http://www.meetup.com
 ### Contact
 
 - Carl Lerche | [GitHub](https://github.com/carllerche) | [Twitter](https://twitter.com/carllerche) | [Email](mailto:me@carllerche.com)
+- Katherine "kf" Fellows | [GitHub](https://github.com/kpfell) | [Twitter](https://twitter.com/kf) | [Email](k@therinefello.ws)
 - Nick Fitzgerald | [GitHub](https://github.com/fitzgen) | [Twitter](https://twitter.com/fitzgen) | [Email](mailto:fitzgen@gmail.com)
