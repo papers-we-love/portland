@@ -8,14 +8,21 @@ What was the last paper you read and loved within the realm of computing? What d
 
 We're curating this repository for papers presented at PWL PDX. You can contribute by adding PR's for papers, code, and/or links to other repositories, like the _main_ Papers We Love repo, [here](https://github.com/papers-we-love/papers-we-love).
 
-If you need to reach out to us or have ideas for papers, just ask us via our [Twitter](https://twitter.com/pwlpdx) account!
+If you need to reach out to us or have ideas for papers, please join the Meetup group below and post a message.
 
 ### Information
 
-Events are posted to the [Papers We Love PDX meetup group](http://www.meetup.com/Papers-We-Love-PDX/).
+Events are posted to the [Papers We Love PDX Meetup](https://www.meetup.com/papers-we-love-pdx/).
 
 ### Contact
 
-- Carl Lerche | [GitHub](https://github.com/carllerche) | [Twitter](https://twitter.com/carllerche) | [Email](mailto:me@carllerche.com)
-- Katherine "kf" Fellows | [GitHub](https://github.com/kpfell) | [Twitter](https://twitter.com/kf) | [Email](k@therinefello.ws)
-- Nick Fitzgerald | [GitHub](https://github.com/fitzgen) | [Twitter](https://twitter.com/fitzgen) | [Email](mailto:fitzgen@gmail.com)
+- Dave Peticolas | [GitHub](https://github.com/jdavisp3) | [Web](https://krondo.com) | [Email](mailto:dave@krondo.com)
+- Chris Mason | [GitHub](https://github.com/masconcj) | [Email](cmason@cmason.com)
+
+### History
+
+This chapter was formerly run by:
+
+- Carl Lerche | [GitHub](https://github.com/carllerche)
+- Katherine "kf" Fellows | [GitHub](https://github.com/kpfell)
+- Nick Fitzgerald | [GitHub](https://github.com/fitzgen)
