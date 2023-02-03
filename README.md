@@ -14,6 +14,8 @@ If you need to reach out to us or have ideas for papers, please join the Meetup 
 
 Events are posted to the [Papers We Love PDX Meetup](https://www.meetup.com/papers-we-love-pdx/).
 
+There is also a Discord channel: https://discord.gg/ZHqZ2W9QQt
+
 ### Contact
 
 - Dave Peticolas | [GitHub](https://github.com/jdavisp3) | [Web](https://krondo.com) | [Email](mailto:dave@krondo.com)
